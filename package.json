@@ -1,0 +1,14 @@
+{
+  "name": "dimdimapp-cp3-rm563901",
+  "version": "1.0.0",
+  "description": "DimDimApp - CP3 Dockerfile FIAP - Felipe Wiclif Leal da Silva RM563901",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "pg": "^8.11.5"
+  }
+}
