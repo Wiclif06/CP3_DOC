@@ -26,3 +26,6 @@
 - Containers executados em background com `-d`.
 - Nome dos containers contendo o RM563901.
 - How To completo para execução em nuvem.
+
+Github: https://github.com/Wiclif06/CP3_DOC.git
+Youtube: https://youtu.be/nq5JTSTPzMo
